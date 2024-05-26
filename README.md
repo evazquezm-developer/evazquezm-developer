@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elias. A software developer.
 - I´ve been writing code since i was 16 years old.
-- I started programming with Pascal and Basic compilers. Then C and C++ compilers in the university.
+- I started programming with Pascal and Basic compilers. Then the C++ compiler in the university using the begining of OOP.
 - I like so much programming with various programming languages because it´s so fun.
 - 👀 I’m interested in share some code that I use frenquently in my job like software developer.
 
