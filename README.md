@@ -1,6 +1,6 @@
-- Hi, I’m Elias. A software developer.
-- I like so much programming with various programming languages because it´s so fun.
-- I’m interested in share some code that I use frenquently in my job like software developer.
+Hi, I’m Elias. A software developer.
+I like so much programming with various programming languages because it´s so fun.
+I’m interested in share some code that I use frenquently in my job like software developer.
 
 I hope you find it useful. And finally, I will be continuosly updating this site with new samples.
 
